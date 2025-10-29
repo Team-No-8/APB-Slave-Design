@@ -50,7 +50,11 @@ Functional and timing simulations were successfully performed.
 ## Results
 - APB protocol handshake verified through waveform analysis.  
 - Successful read and write operations observed from slave registers.  
-- All signal transitions followed standard APB timing.  
+- All signal transitions followed standard APB timing.
+
+## Block Diagram
+<img width="700" height="352" alt="image" src="https://github.com/user-attachments/assets/aa71b59a-47f5-4638-9861-6c629d7f8baf" />
+
 
 
 
